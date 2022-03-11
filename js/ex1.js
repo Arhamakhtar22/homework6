@@ -4,5 +4,3 @@ const bodyNodes = () => {
         console.log(node);
     });
 }
-
-bodyNodes();

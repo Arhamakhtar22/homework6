@@ -1,10 +1,7 @@
 let table = document.createElement('table');
-let head = document.createElement('thead');
 let tbody = document.createElement('tbody');
 
-table.appendChild(thead);
 table.appendChild(tbody);
-
 document.getElementById("body").appendChild(table);
 
 let row_1 = document.createElement('tr');
